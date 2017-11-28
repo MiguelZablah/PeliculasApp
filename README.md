@@ -1,3 +1,7 @@
+# Proyecto
+
+Probando angular aun mas ahora con el api de peliculas
+
 # PeliculasApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
